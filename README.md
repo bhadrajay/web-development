@@ -1,2 +1,2 @@
 # web-development
-All web development projects &amp codes
+All web devlopement projects &amp codes
